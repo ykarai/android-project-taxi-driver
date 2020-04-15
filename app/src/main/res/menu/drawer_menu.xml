@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Rides"
+            android:icon="@drawable/ic_car"
+            android:title="New Rides" />
+        <item
+            android:id="@+id/nav_Contacts"
+            android:icon="@drawable/ic_contact"
+            android:title="Add To Contacts" />
+
+    </group>
+
+    <item android:title="Others">
+        <menu>
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_exit"
+                android:title="EXIT" />
+
+        </menu>
+    </item>
+
+</menu>

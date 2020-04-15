@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "928649029756",
+    "firebase_url": "https://mydbapplication-3be09.firebaseio.com",
+    "project_id": "mydbapplication-3be09",
+    "storage_bucket": "mydbapplication-3be09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928649029756:android:155b22a9e92ed03b",
+        "android_client_info": {
+          "package_name": "com.androidproject.ya.clientapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928649029756-n9pcgt9pbudml04gppnj0s9935bdekbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidproject.ya.clientapp",
+            "certificate_hash": "7b40cf42741521aebcf5de7702979011f8ed5489"
+          }
+        },
+        {
+          "client_id": "928649029756-f24fpsjcotlcm303gmu5927n02cn1cml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDho9hWaeuT2f3WY_wvGJEfF20c7L0MnK8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928649029756-f24fpsjcotlcm303gmu5927n02cn1cml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928649029756:android:59ac6802a3227807",
+        "android_client_info": {
+          "package_name": "com.example.yosk7.drivertaxiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928649029756-3j6eldhh5sg7diss294r3vpahl1t5l0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yosk7.drivertaxiapp",
+            "certificate_hash": "873fcd20af609d687f16ef97f973779333704432"
+          }
+        },
+        {
+          "client_id": "928649029756-f24fpsjcotlcm303gmu5927n02cn1cml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDho9hWaeuT2f3WY_wvGJEfF20c7L0MnK8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928649029756-f24fpsjcotlcm303gmu5927n02cn1cml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
